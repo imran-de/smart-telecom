@@ -1,0 +1,21 @@
+.addProduct-section{
+    min-height: 50vh;
+    margin-bottom: 0px;
+    background-color: #ece3e3;
+    margin-top: 0px;
+}
+
+.addProduct-section form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    height: 70vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.addProduct-section form input, textarea {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+  
